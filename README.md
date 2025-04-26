@@ -5,7 +5,7 @@
 ![focus](https://img.shields.io/badge/focus-FullStack-brightgreen)
 
 
-<h3>A tech-artist, who is totally obsessed with web3 and gen AI.</h3>
+<h3>An ordinary developer.</h3>
 
 <hr>
 <img align="right" alt="GIF" src="https://media1.tenor.com/images/86489b28cf2316bb0d141809cc900f66/tenor.gif?itemid=17921729" width="400px" height="250" />
